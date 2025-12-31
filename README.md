@@ -6,7 +6,7 @@ Setup in Google Collab:
 Setup in Visual Studio Code (Local):
 
 1. Create .env file and add the OPENAI_API_KEY to the file
-2. Use .venv [3.11.13 Pyhton Version] or .conda [3.11.13 Pyhton Version]
+2. Use .venv [3.11.13 Python Version] or .conda [3.11.13 Python Version]
 
 
 # LangGraph-Agentic-Frameworks-and-Design-Patterns-for-Effective-AI-Systems
